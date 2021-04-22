@@ -1,12 +1,11 @@
-import logo from "./logo.svg";
+import Homepage from "./Pages/homepage";
 import "./App.css";
+import Nabvar from "./Components/nabvar";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1 className="heading">This is my first application</h1>
-      </header>
+      <Homepage />
     </div>
   );
 }
