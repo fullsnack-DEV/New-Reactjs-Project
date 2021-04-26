@@ -6,8 +6,8 @@ function Nabvar() {
     <nav className="navbar">
       <h1>Hot Blogs</h1>
       <div className="links">
-        <a href="./"> Home </a>
-        <a href="./create">Create blog</a>
+        <a href="/"> Home </a>
+        <a href="/create">Create blog</a>
       </div>
     </nav>
   );
